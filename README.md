@@ -1,8 +1,6 @@
 # Greek-Life-Modeling-Project
-This repository serves as the home for my project that aims to build a machine learning model to predict Duke University students' likelihood of involvement in Greek Life. 
+This repository serves as the home for my project that investigates various factors surrounding student involvement in Greek Life at Duke University and aims to predict Duke University students' likelihood of involvement in Greek Life by utilization of a machine learning model. 
 
-The purpose of this project is to create a model that can classify students as potentially becoming involved in Greek Life at Duke University.   
+The data [found here](https://github.com/Chrissymbeck/Greek-Life-Demographics) was originally gathered by members of *The Chronicle* during their investigation of diversity in Greek Life institutions at Duke in an article titled ["Is Greek life at Duke as homogeneous as you think?" (January 2018)](https://www.dukechronicle.com/article/2018/01/is-greek-life-at-duke-as-homogenous-as-you-think)
 
-The data was obtained from [this repository](https://github.com/Chrissymbeck/Greek-Life-Demographics), which was the host for data used in [an article published by the university press](https://www.dukechronicle.com/article/2018/01/is-greek-life-at-duke-as-homogenous-as-you-think) in January 2018.
-
-My Blog post article https://medium.com/@tylerjetheridge98/modeling-duke-university-students-involvement-in-greek-life-6164efaa704b 
+An article detailing my findings can be found at https://medium.com/@tylerjetheridge98/modeling-duke-university-students-involvement-in-greek-life-6164efaa704b 
